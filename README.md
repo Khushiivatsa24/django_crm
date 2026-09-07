@@ -31,5 +31,6 @@ This project was built to get hands-on practice with Django as a full-stack Pyth
     <img width="400" height="350" alt="Screenshot From 2026-09-07 18-02-43" src="https://github.com/user-attachments/assets/9df1addf-d8f1-4da7-8cea-1ff06cfe35fb" />
     <img width="370" height="350" alt="Screenshot From 2026-09-07 17-50-42" src="https://github.com/user-attachments/assets/5d64fbd5-000c-4b9d-9027-5c2e47141abc" />
  </p>
+ 
 - Timestamped record creation
   <img width="1852" height="366" alt="Screenshot From 2026-09-07 17-50-21" src="https://github.com/user-attachments/assets/651f8870-10cd-4330-85ee-c20e7b002cb7" />
